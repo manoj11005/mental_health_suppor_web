@@ -1,6 +1,6 @@
 # MindfullConnect: Mental Health Support Website
 
-**live website**: https://prabinb50.github.io/MindfullConnect_Mental_Health_Support_Website_Using_HTML_CSS_JS/
+**live website**:https://github.com/manoj11005/mental_health_suppor_web/edit/main/README.md
 
 ## Overview
 MindfullConnect is a **frontend website** developed to provide comprehensive mental health resources and support. Built using HTML, CSS, and JavaScript, it offers users tools for self-assessment, access to professional services, and emergency support. This platform responds to the growing demand for accessible online mental health services and aims to improve psychological well-being through interactive features, educational content, and real-time support.
